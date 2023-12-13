@@ -1,4 +1,4 @@
-￼Enter package com.shield.foodservice
+package com.shield.foodservice
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
